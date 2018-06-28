@@ -1,0 +1,9 @@
+# Project dependencies
+.cache
+node_modules
+lib
+polling-app-88df9-firebase-adminsdk-ze140-38b98b0911.json
+
+# Build directory
+/public
+.DS_Store
